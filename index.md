@@ -1,6 +1,13 @@
 ## Welcome to GitHub Pages
+#### Why thank you kind sir
 
-### Why thank you kind sir
+### Kara Orander's First CS193 Homework
+
+- It's only once a week
+- There's more than 3 girls in the class
+- So far it seems really simple
+- It a good filler class
+- It gives a great introduction on github and a bunch of other coding platforms
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
